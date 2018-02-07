@@ -1,0 +1,21 @@
+{
+  "name": "reactcitations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Bastienrc <bastienrc@laposte.net> (http://bastienrc.free.fr)",
+  "license": "CECILL-2.1",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.0"
+  }
+}
