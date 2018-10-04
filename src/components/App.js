@@ -24,7 +24,7 @@ class App extends React.Component {
     return (
       <div class="citation">
         <Citation details={this.state} />
-        <button onClick={e => this.genererCitation(e)} >Une autre citation !</button>
+        <button class="btn btn-lg" onClick={e => this.genererCitation(e)} >Une autre citation !</button>
       </div>
     )
   }
