@@ -1,0 +1,12 @@
+@import '~bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+
+body {
+  font-family: 'Special Elite', cursive;
+  scroll-behavior: smooth;
+}
+
+.row {
+  min-height: 100vh;
+  padding-top: 60px;
+}
