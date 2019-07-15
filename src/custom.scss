@@ -4,11 +4,11 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;
 }
 
 nav, h1, h2, h2+p {
   font-family: 'Special Elite', cursive;
-  scroll-behavior: smooth;
 }
 
 #about, #portfolio, #contact {
